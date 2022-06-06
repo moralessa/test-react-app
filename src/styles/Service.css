@@ -1,0 +1,16 @@
+.service{
+    width: 20%;
+    margin: 0 2%;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    color: #806c6c;
+    font-size: 16px;
+    text-align: start;
+    margin: 0;
+    font-weight: 700;
+}

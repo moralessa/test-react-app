@@ -1,0 +1,13 @@
+.services{
+    width: 100%;
+}
+
+h3{
+    color: #133588;
+    font-size: 48px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
